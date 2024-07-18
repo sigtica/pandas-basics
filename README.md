@@ -22,5 +22,5 @@ Please see `titanic_altered.ipynb` for more details.
 
 ## Support 
 
-If you have any questions or spot any errors, please contact info@sigtica.com.
+If you have any questions or spot any errors, please contact info@sigtica.com. Please refer to pandas documentation first: https://pandas.pydata.org/docs/.
 
